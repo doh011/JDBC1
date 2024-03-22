@@ -125,7 +125,6 @@ public class BankSQL {
 
     }
 
-
     public boolean checkAccount(String cAccount) {
         boolean checked = false;
 
