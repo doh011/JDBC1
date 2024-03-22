@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GOOGLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GOOGLE.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
