@@ -16,7 +16,7 @@ public class DBConnection {
 
         // DB에 접속할 주소정보
         String url = "jdbc:oracle:thin:@localhost:1521:XE";
-        // String url = "jdbc:oracle:thin:@192.168.0.34:1521:XE";
+        // String url = 
 
 
         try {
